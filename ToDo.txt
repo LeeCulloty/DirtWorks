@@ -1,0 +1,10 @@
+Sunday 23-Jul
+
+1) Source Images X
+2) Resize Images.
+3) Add new images to website.
+4) Change Machine & Operator Hire to Foundations.
+5) Re-Write Text Sections.
+6) Remove the hyperlink from each services section.
+7) Remove "View More"
+8) Commit.
